@@ -1,0 +1,1 @@
+possibility to adapt to different environments in different functions. The definiton of lexical scope is only used for us to understand closures with different function changing the a parameter or a variable define "backwards".

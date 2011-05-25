@@ -1,0 +1,2 @@
+
+((:|TITLE| "Kind od Blue" :|ARTIST| "Miles Davis" :|RATING| 10. :|RIPPED| |COMMON-LISP|::|NIL|) (:|TITLE| "Interference" :|ARTIST| "Reffer" :|RATING| 10. :|RIPPED| |COMMON-LISP|::|T|) (:|TITLE| "Merzbuddha" :|ARTIST| "Merzbow" :|RATING| 9. :|RIPPED| |COMMON-LISP|::|T|) (:|TITLE| "Movie Music" :|ARTIST| "Braid" :|RATING| 7. :|RIPPED| |COMMON-LISP|::|T|) (:|TITLE| "Rocheambeau" :|ARTIST| "Farside" :|RATING| 8. :|RIPPED| |COMMON-LISP|::|T|)) 
